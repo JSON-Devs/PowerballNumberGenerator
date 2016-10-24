@@ -1,0 +1,15 @@
+input[type="text"] {
+	width: 30px;
+	}
+	
+table, th, td {
+	border: 1px solid black;
+	text-align:center;
+	}
+.redBox{
+	background-color:red;
+	color:white;
+}
+footer{
+	text-align:center;
+}
