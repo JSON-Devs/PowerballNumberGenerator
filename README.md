@@ -2,7 +2,7 @@
 
 Generate your own Powerball numbers so that you don't have to get quick picks.
 
-[Click here](https://jaygagnon.github.io/PowerballNumberGenerator/) to access the Powerball Number Generator.
+[Click here](https://json-devs.github.io/PowerballNumberGenerator/) to access the Powerball Number Generator.
 
 ### Disclaimer ###
 
